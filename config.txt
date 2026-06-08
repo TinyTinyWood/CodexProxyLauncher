@@ -1,0 +1,10 @@
+# Codex Proxy Launcher configuration
+# The GUI only edits proxy_address. Change the other values here, then restart the launcher.
+
+proxy_address=http://127.0.0.1:10808
+chromium_proxy=
+no_proxy=localhost,127.0.0.1,::1
+codex_exe_path=
+startup_wait_seconds=20
+temporarily_set_user_proxy_environment=false
+enable_wsl_proxy=false

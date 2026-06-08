@@ -1,0 +1,11 @@
+bin/
+obj/
+publish/
+publish-updated/
+*.user
+*.suo
+*.pdb
+*.log
+main-preview*.png
+advanced-preview*.png
+!main-preview-updated.png
